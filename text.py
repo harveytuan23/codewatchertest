@@ -8,5 +8,4 @@ def foo():
 def bar():
     x = 1
     y = 2
-    print(x)
     # y 沒有被使用
