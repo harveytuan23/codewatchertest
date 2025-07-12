@@ -1,6 +1,7 @@
 def foo():
     print('hello')
       print('world')  # 縮排錯誤
+    xxx\
 
 def bar():
     x = 1
