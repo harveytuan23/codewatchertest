@@ -5,8 +5,6 @@ def foo():
     print('World":')
     print('World":')
     print('World":')
-        print('World":')
-    print('World":')
 
 def bar():
     x = 1
@@ -15,5 +13,5 @@ def bar():
 
 def bar():
     x = 1
-    y = 2
+
     # y 沒有被使用
