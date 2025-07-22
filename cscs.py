@@ -2,9 +2,6 @@ def foo():
     print('hello')
     print('world')  # 縮排錯誤
     print('World":')
-    print('World":')
-    print('World":')
-    print('World":')
         print('World":')
 
 def bar():
