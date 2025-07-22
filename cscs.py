@@ -7,7 +7,6 @@ def foo():
     print('World":')
         print('World":')
     print('World":')
-    print('World":')
 
 def bar():
     x = 1
